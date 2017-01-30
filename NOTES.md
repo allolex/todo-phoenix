@@ -1,5 +1,9 @@
 # Code notes
 
+Here are my notes for the tutorial found here:
+
+https://robots.thoughtbot.com/building-a-phoenix-json-api
+
 ## The datetime libraries are confusing
 
 Specifically, I had trouble getting the timestamps to output as ISO 8601
